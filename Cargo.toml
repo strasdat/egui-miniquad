@@ -20,7 +20,7 @@ include = [
 
 [dependencies]
 egui = "0.16.0"
-miniquad =  { git = "https://github.com/strasdat/miniquad", branch = "v0.3.0-alpha.43-points" }
+miniquad =  { git = "https://github.com/strasdat/miniquad",  rev = "415d438d1cce0b19d4823287be6763ba038f5f04" }
 quad-url = "0.1.0"
  
 # https://github.com/not-fl3/miniquad/issues/172
